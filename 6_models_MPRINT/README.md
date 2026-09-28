@@ -71,25 +71,3 @@ the documentation, packaging script, configurations, tokenizers, and original
 source code normally. Archive verification does not establish inference accuracy;
 inference has not been tested as part of this packaging step.
 
-To publish through the browser, open
-[Create a release](https://github.com/langli-lab/mprint-kp-metadata/releases/new),
-choose a new tag `biobert-v1` and the title **MPRINT BioBERT models v1**, copy the
-text from [RELEASE_NOTES.md](RELEASE_NOTES.md), and attach the six ZIPs plus
-`SHA256SUMS.txt`. Publish once all seven uploads finish.
-
-Alternatively, with GitHub CLI authenticated, run the following from the repo
-root after committing and pushing the small repository files. This command
-uploads the files and publishes the release publicly:
-
-```bash
-gh release create biobert-v1 \
-  release-assets/biobert-v1/biobert-*.zip \
-  release-assets/biobert-v1/SHA256SUMS.txt \
-  --repo langli-lab/mprint-kp-metadata \
-  --title "MPRINT BioBERT models v1" \
-  --notes-file 6_models_MPRINT/RELEASE_NOTES.md \
-  --latest=false
-```
-
-GitHub documents [release attachments](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#distributing-large-binaries)
-and the [release creation command](https://cli.github.com/manual/gh_release_create).
