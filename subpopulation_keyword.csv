@@ -1,0 +1,172 @@
+term,term_type,population,subpopulation,canonical_term,mesh_heading,mesh_ui,also_indicates
+assisted reproductive technology,keyword,maternal,maternal,Assisted Reproductive Technology,"Reproductive Techniques, Assisted",D027724,
+contraception,keyword,maternal,maternal,Contraception,Contraception,D003267,
+contraceptives,keyword,maternal,maternal,Contraception,Contraception,D003267,
+contraceptive,keyword,maternal,maternal,Contraception,Contraception,D003267,
+in vitro fertilization,keyword,maternal,maternal,In Vitro Fertilization,Fertilization in Vitro,D005307,
+ivf,keyword,maternal,maternal,In Vitro Fertilization,Fertilization in Vitro,D005307,
+in vitro fertilizations,keyword,maternal,maternal,In Vitro Fertilization,Fertilization in Vitro,D005307,
+in vitro fertilisation,keyword,maternal,maternal,In Vitro Fertilization,Fertilization in Vitro,D005307,
+in vitro fertilisations,keyword,maternal,maternal,In Vitro Fertilization,Fertilization in Vitro,D005307,
+maternal,keyword,maternal,maternal,Maternal,Mothers,D009035,
+maternity,keyword,maternal,maternal,Maternity,Maternal Health Services,D008427,
+mother,keyword,maternal,maternal,Mother,Mothers,D009035,
+mothers,keyword,maternal,maternal,Mother,Mothers,D009035,
+mothering,keyword,maternal,maternal,Mother,Mothers,D009035,
+obstetrics,keyword,maternal,maternal,Obstetrics,Obstetrics,D009774,
+obstetric,keyword,maternal,maternal,Obstetrics,Obstetrics,D009774,
+perinatal,keyword,maternal,maternal,Perinatal,Perinatal Care,D018743,pediatric
+Fertilization In Vitro,mesh,maternal,maternal,Fertilization in Vitro,Fertilization in Vitro,D005307,
+"Infertility, Female",mesh,maternal,maternal,"Infertility, Female","Infertility, Female",D007247,
+Maternal Age,mesh,maternal,maternal,Maternal Age,Maternal Age,D008423,
+Maternal Exposure,mesh,maternal,maternal,Maternal Exposure,Maternal Exposure,D018811,
+Mothers,mesh,maternal,maternal,Mothers,Mothers,D009035,
+antenatal care,keyword,maternal,pregnancy,Antenatal Care,Prenatal Care,D011295,
+gestation,keyword,maternal,pregnancy,Gestation,Pregnancy,D011247,
+gestations,keyword,maternal,pregnancy,Gestation,Pregnancy,D011247,
+gestational,keyword,maternal,pregnancy,Gestational,Gestational Age,D005865,pediatric
+miscarriage,keyword,maternal,pregnancy,Miscarriage,"Abortion, Spontaneous",D000022,
+miscarriages,keyword,maternal,pregnancy,Miscarriage,"Abortion, Spontaneous",D000022,
+placenta,keyword,maternal,pregnancy,Placenta,Placenta,D010920,pediatric
+placentas,keyword,maternal,pregnancy,Placenta,Placenta,D010920,pediatric
+placentae,keyword,maternal,pregnancy,Placenta,Placenta,D010920,pediatric
+placental,keyword,maternal,pregnancy,Placental,Placenta,D010920,pediatric
+pregnancy,keyword,maternal,pregnancy,Pregnancy,Pregnancy,D011247,
+pregnancies,keyword,maternal,pregnancy,Pregnancy,Pregnancy,D011247,
+pregnant,keyword,maternal,pregnancy,Pregnant,Pregnant People,D037841,
+pregnants,keyword,maternal,pregnancy,Pregnant,Pregnant People,D037841,
+prenatal,keyword,maternal,pregnancy,Prenatal,Prenatal Care,D011295,pediatric
+stillbirth,keyword,maternal,pregnancy,Stillbirth,Stillbirth,D050497,pediatric
+stillbirths,keyword,maternal,pregnancy,Stillbirth,Stillbirth,D050497,pediatric
+trimester,keyword,maternal,pregnancy,Trimester,Pregnancy Trimesters,D011264,
+trimesters,keyword,maternal,pregnancy,Trimester,Pregnancy Trimesters,D011264,
+"Abortion, Induced",mesh,maternal,pregnancy,"Abortion, Induced","Abortion, Induced",D000028,
+"Abortion, Spontaneous",mesh,maternal,pregnancy,"Abortion, Spontaneous","Abortion, Spontaneous",D000022,
+Amniotic Fluid,mesh,maternal,pregnancy,Amniotic Fluid,Amniotic Fluid,D000653,pediatric
+Chorionic Gonadotropin,mesh,maternal,pregnancy,Chorionic Gonadotropin,Chorionic Gonadotropin,D006063,
+"Diabetes, Gestational",mesh,maternal,pregnancy,"Diabetes, Gestational","Diabetes, Gestational",D016640,
+Folic Acid,mesh,maternal,pregnancy,Folic Acid,Folic Acid,D005492,
+Gestational Age,mesh,maternal,pregnancy,Gestational Age,Gestational Age,D005865,pediatric
+Maternal-Fetal Exchange,mesh,maternal,pregnancy,Maternal-Fetal Exchange,Maternal-Fetal Exchange,D008431,pediatric
+Placenta,mesh,maternal,pregnancy,Placenta,Placenta,D010920,pediatric
+Pre-Eclampsia,mesh,maternal,pregnancy,Pre-Eclampsia,Pre-Eclampsia,D011225,
+Pregnancy,mesh,maternal,pregnancy,Pregnancy,Pregnancy,D011247,
+Pregnancy Complications,mesh,maternal,pregnancy,Pregnancy Complications,Pregnancy Complications,D011248,
+"Pregnancy Complications, Infectious",mesh,maternal,pregnancy,"Pregnancy Complications, Infectious","Pregnancy Complications, Infectious",D011251,
+Pregnancy In Diabetics,mesh,maternal,pregnancy,Pregnancy in Diabetics,Pregnancy in Diabetics,D011254,
+Pregnancy Outcome,mesh,maternal,pregnancy,Pregnancy Outcome,Pregnancy Outcome,D011256,pediatric
+"Pregnancy Trimester, First",mesh,maternal,pregnancy,"Pregnancy Trimester, First","Pregnancy Trimester, First",D011261,
+"Pregnancy Trimester, Second",mesh,maternal,pregnancy,"Pregnancy Trimester, Second","Pregnancy Trimester, Second",D011262,
+"Pregnancy Trimester, Third",mesh,maternal,pregnancy,"Pregnancy Trimester, Third","Pregnancy Trimester, Third",D011263,
+Prenatal Care,mesh,maternal,pregnancy,Prenatal Care,Prenatal Care,D011295,
+Prenatal Diagnosis,mesh,maternal,pregnancy,Prenatal Diagnosis,Prenatal Diagnosis,D011296,pediatric
+Prenatal Exposure Delayed Effects,mesh,maternal,pregnancy,Prenatal Exposure Delayed Effects,Prenatal Exposure Delayed Effects,D011297,pediatric
+birth,keyword,maternal,labor,Birth,Parturition,D036801,pediatric
+births,keyword,maternal,labor,Birth,Parturition,D036801,pediatric
+birthing,keyword,maternal,labor,Birth,Parturition,D036801,pediatric
+cesarean section,keyword,maternal,labor,Cesarean Section,Cesarean Section,D002585,
+c-section,keyword,maternal,labor,Cesarean Section,Cesarean Section,D002585,
+cesarean,keyword,maternal,labor,Cesarean Section,Cesarean Section,D002585,
+childbirth,keyword,maternal,labor,Childbirth,Parturition,D036801,
+delivery,keyword,maternal,labor,Delivery,"Delivery, Obstetric",D036861,
+deliveries,keyword,maternal,labor,Delivery,"Delivery, Obstetric",D036861,
+delivering,keyword,maternal,labor,Delivery,"Delivery, Obstetric",D036861,
+delivered,keyword,maternal,labor,Delivery,"Delivery, Obstetric",D036861,
+induced labor,keyword,maternal,labor,Induced Labor,"Labor, Induced",D007751,
+labor induction,keyword,maternal,labor,Induced Labor,"Labor, Induced",D007751,
+labor,keyword,maternal,labor,Labor,"Labor, Obstetric",D007743,
+labors,keyword,maternal,labor,Labor,"Labor, Obstetric",D007743,
+labored,keyword,maternal,labor,Labor,"Labor, Obstetric",D007743,
+laboring,keyword,maternal,labor,Labor,"Labor, Obstetric",D007743,
+parturition,keyword,maternal,labor,Parturition,Parturition,D036801,
+parturitions,keyword,maternal,labor,Parturition,Parturition,D036801,
+"Anesthesia, Obstetrical",mesh,maternal,labor,"Anesthesia, Obstetrical","Anesthesia, Obstetrical",D000773,
+Cesarean Section,mesh,maternal,labor,Cesarean Section,Cesarean Section,D002585,
+"Delivery, Obstetric",mesh,maternal,labor,"Delivery, Obstetric","Delivery, Obstetric",D036861,
+"Labor, Induced",mesh,maternal,labor,"Labor, Induced","Labor, Induced",D007751,
+"Labor, Obstetric",mesh,maternal,labor,"Labor, Obstetric","Labor, Obstetric",D007743,
+"Obstetric Labor, Premature",mesh,maternal,labor,"Obstetric Labor, Premature","Obstetric Labor, Premature",D007752,pediatric
+Oxytocin,mesh,maternal,labor,Oxytocin,Oxytocin,D010121,
+breast feeding,keyword,maternal,lactation,Breast Feeding,Breast Feeding,D001942,pediatric
+breast-feed,keyword,maternal,lactation,Breast Feeding,Breast Feeding,D001942,pediatric
+breastfeeds,keyword,maternal,lactation,Breastfeeding,Breast Feeding,D001942,pediatric
+breastfed,keyword,maternal,lactation,Breastfeeding,Breast Feeding,D001942,pediatric
+breastfeeding,keyword,maternal,lactation,Breastfeeding,Breast Feeding,D001942,pediatric
+infant feeding,keyword,maternal,lactation,Infant Feeding,Infant Nutritional Physiological Phenomena,D007227,pediatric
+lactating,keyword,maternal,lactation,Lactating,Lactation,D007774,pediatric
+lactation,keyword,maternal,lactation,Lactation,Lactation,D007774,pediatric
+lactational,keyword,maternal,lactation,Lactation,Lactation,D007774,pediatric
+milk supply,keyword,maternal,lactation,Milk Supply,Lactation,D007774,
+nursing,keyword,maternal,lactation,Nursing,Breast Feeding,D001942,pediatric
+Breast Feeding,mesh,maternal,lactation,Breast Feeding,Breast Feeding,D001942,pediatric
+"Milk, Human",mesh,maternal,lactation,"Milk, Human","Milk, Human",D008895,pediatric
+postnatal,keyword,maternal,postpartum,Postnatal,Postpartum Period,D049590,pediatric
+postpartum,keyword,maternal,postpartum,Postpartum,Postpartum Period,D049590,
+Postpartum Period,mesh,maternal,postpartum,Postpartum Period,Postpartum Period,D049590,
+formula feeding,keyword,pediatric,infant,Formula Feeding,Infant Formula,D041943,
+formula feedings,keyword,pediatric,infant,Formula Feeding,Infant Formula,D041943,
+formula-fed,keyword,pediatric,infant,Formula Feeding,Infant Formula,D041943,
+formula-fed infants,keyword,pediatric,infant,Formula Feeding,Infant Formula,D041943,
+infant,keyword,pediatric,infant,Infant,Infant,D007223,
+infants,keyword,pediatric,infant,Infant,Infant,D007223,
+infantile,keyword,pediatric,infant,Infant,Infant,D007223,
+weaning,keyword,pediatric,infant,Weaning,Weaning,D014886,maternal
+wean,keyword,pediatric,infant,Weaning,Weaning,D014886,maternal
+weaned,keyword,pediatric,infant,Weaning,Weaning,D014886,maternal
+Infant,mesh,pediatric,infant,Infant,Infant,D007223,
+adolescent,keyword,pediatric,pediatric,Adolescent,Adolescent,D000293,
+adolescents,keyword,pediatric,pediatric,Adolescent,Adolescent,D000293,
+adolescent health,keyword,pediatric,pediatric,Adolescent Health,Adolescent Health,D000067697,
+pediatric,keyword,pediatric,pediatric,Pediatric,Pediatrics,D010372,
+pediatrics,keyword,pediatric,pediatric,Pediatric,Pediatrics,D010372,
+paediatric,keyword,pediatric,pediatric,Pediatric,Pediatrics,D010372,
+paediatrics,keyword,pediatric,pediatric,Pediatric,Pediatrics,D010372,
+Adolescent,mesh,pediatric,pediatric,Adolescent,Adolescent,D000293,
+Growth & Development,mesh,pediatric,pediatric,Growth and Development,Growth and Development,D048788,
+premature,keyword,pediatric,premature,Premature,"Infant, Premature",D007234,maternal
+preterm,keyword,pediatric,premature,Preterm,"Infant, Premature",D007234,maternal
+"Infant, Extremely Premature",mesh,pediatric,premature,"Infant, Extremely Premature","Infant, Extremely Premature",D062071,
+"Infant, Premature",mesh,pediatric,premature,"Infant, Premature","Infant, Premature",D007234,
+"Infant, Premature, Diseases",mesh,pediatric,premature,"Infant, Premature, Diseases","Infant, Premature, Diseases",D007235,
+Premature Birth,mesh,pediatric,premature,Premature Birth,Premature Birth,D047928,maternal
+newborn,keyword,pediatric,newborn,Newborn,"Infant, Newborn",D007231,
+newborns,keyword,pediatric,newborn,Newborn,"Infant, Newborn",D007231,
+Apgar Score,mesh,pediatric,newborn,Apgar Score,Apgar Score,D001034,
+Birth Weight,mesh,pediatric,newborn,Birth Weight,Birth Weight,D001724,
+"Infant, Low Birth Weight",mesh,pediatric,newborn,"Infant, Low Birth Weight","Infant, Low Birth Weight",D007230,
+"Infant, Newborn",mesh,pediatric,newborn,"Infant, Newborn","Infant, Newborn",D007231,
+"Infant, Newborn, Diseases",mesh,pediatric,newborn,"Infant, Newborn, Diseases","Infant, Newborn, Diseases",D007232,
+"Infant, Small For Gestational Age",mesh,pediatric,newborn,"Infant, Small for Gestational Age","Infant, Small for Gestational Age",D007236,
+"Infant, Very Low Birth Weight",mesh,pediatric,newborn,"Infant, Very Low Birth Weight","Infant, Very Low Birth Weight",D019102,
+"Respiratory Distress Syndrome, Newborn",mesh,pediatric,newborn,"Respiratory Distress Syndrome, Newborn","Respiratory Distress Syndrome, Newborn",D012127,
+child,keyword,pediatric,child,Child,Child,D002648,
+childhood,keyword,pediatric,child,Child,Child,D002648,
+children,keyword,pediatric,child,Children,Child,D002648,
+toddler,keyword,pediatric,child,Toddler,"Child, Preschool",D002675,
+toddlers,keyword,pediatric,child,Toddler,"Child, Preschool",D002675,
+toddlerhood,keyword,pediatric,child,Toddler,"Child, Preschool",D002675,
+Child,mesh,pediatric,child,Child,Child,D002648,
+Child Development,mesh,pediatric,child,Child Development,Child Development,D002657,
+"Child, Preschool",mesh,pediatric,child,"Child, Preschool","Child, Preschool",D002675,
+fetus,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+fetuses,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+fetal,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+foetus,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+foetal,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+fetalis,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+fetally,keyword,pediatric,fetal,Fetal,Fetus,D005333,maternal
+in utero,keyword,pediatric,fetal,In Utero,Fetus,D005333,maternal
+Amniotic Fluid,mesh,pediatric,fetal,Amniotic Fluid,Amniotic Fluid,D000653,maternal
+Embryology,mesh,pediatric,fetal,Embryology,Embryology,D004626,
+Fetal Blood,mesh,pediatric,fetal,Fetal Blood,Fetal Blood,D005312,maternal
+Fetal Diseases,mesh,pediatric,fetal,Fetal Diseases,Fetal Diseases,D005315,maternal
+Fetal Growth Retardation,mesh,pediatric,fetal,Fetal Growth Retardation,Fetal Growth Retardation,D005317,maternal
+Fetus,mesh,pediatric,fetal,Fetus,Fetus,D005333,maternal
+Umbilical Cord,mesh,pediatric,fetal,Umbilical Cord,Umbilical Cord,D014470,maternal
+neonatal,keyword,pediatric,neonate,Neonatal,"Infant, Newborn",D007231,
+neonatally,keyword,pediatric,neonate,Neonatal,"Infant, Newborn",D007231,
+neonate,keyword,pediatric,neonate,Neonate,"Infant, Newborn",D007231,
+neonates,keyword,pediatric,neonate,Neonate,"Infant, Newborn",D007231,
+neonatology,keyword,pediatric,neonate,Neonatology,Neonatology,D009359,
+"Intensive Care Units, Neonatal",mesh,pediatric,neonate,"Intensive Care Units, Neonatal","Intensive Care Units, Neonatal",D007363,
+Neonatal Abstinence Syndrome,mesh,pediatric,neonate,Neonatal Abstinence Syndrome,Neonatal Abstinence Syndrome,D009357,maternal
