@@ -1,9 +1,10 @@
 # MPRINT Knowledge Portal Metadata
 
-This repository holds the metadata standards behind the MPRINT (Maternal and Pediatric Precision in Therapeutics) Knowledge Portal. It contains:
+This repository holds the metadata standards and model resources behind the MPRINT (Maternal and Pediatric Precision in Therapeutics) Knowledge Portal. It contains:
 
 - curation schemas that define which variables are extracted from published articles, and how;
-- reference vocabularies for tagging drugs and maternal / pediatric subpopulations.
+- reference vocabularies for tagging drugs and maternal / pediatric subpopulations;
+- configuration, tokenizer files, and release instructions for six BioBERT classifiers.
 
 
 ## Contents
@@ -15,6 +16,14 @@ This repository holds the metadata standards behind the MPRINT (Maternal and Ped
 | `PE:CT Curation/Data curation template for PE-CT studies.xlsx` | Blank PE/CT curation template |
 | `subpopulation_keyword.csv` | Keywords and MeSH terms mapped to 12 maternal / pediatric subpopulations |
 | `drug_dictionaryI.csv` | Drug names mapped to UMLS concept IDs (CUIs) and MeSH terms |
+| [`6_models_MPRINT/`](6_models_MPRINT/README.md) | Six BioBERT checkpoints: documentation, configuration, tokenizers, and original example code; weights are packaged separately for release |
+
+## BioBERT models
+
+The six supplied checkpoints are Biomarker, CT, FBNSTP, PE, PK, and VC. Their large
+weight files are kept out of Git and packaged as individual GitHub Release
+downloads. See the [model README](6_models_MPRINT/README.md) for release status,
+download instructions, checkpoint details, and publishing steps.
 
 ## Curation schemas
 

@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model weights and local release packages are distributed as release assets.
+/6_models_MPRINT/*_checkpoint/*.safetensors
+/6_models_MPRINT/*_checkpoint/*.old
+/6_models_MPRINT/*_checkpoint/*.bin
+/6_models_MPRINT/*_checkpoint/*.pt
+/6_models_MPRINT/*_checkpoint/*.pth
+/release-assets/
